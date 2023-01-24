@@ -15,6 +15,10 @@ p::selection {
   background-color: #085f07;
 }
 
+i::selection {
+  background-attachment:#085f07 ;
+}
+
 a::selection {
   background-color: #085f07;
 }
